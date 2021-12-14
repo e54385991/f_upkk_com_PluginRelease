@@ -2,12 +2,12 @@
 	"version": 2,
 	"data": {
 		"Request_Extsions": [
-			"system2", //例如您的插件需要system2扩展才能运行 那么面板程序会同时安装它
+			"system2",
 			"SteamWorks",
 			"ripext"
 		],
 		"Request_Plugins": [
-			"eItems"  //例如您的插件需要eItems 插件 才能运行  那么面板程序会同时安装它
+			"eItems"
 		]
 	}
 }
