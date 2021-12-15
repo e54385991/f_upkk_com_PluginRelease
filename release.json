@@ -1,6 +1,9 @@
 {
+  "package_name": "testplugin",
+	"title": "这是一个插件标题",
+	"note": "这是一个插件说明 支持简单的换行符 字体颜色标签 ",
 	"version": 2,
-	"data": {
+	"Request_data": {
 		"Request_Extsions": [
 			"system2",
 			"SteamWorks",
@@ -9,5 +12,8 @@
 		"Request_Plugins": [
 			"eItems"
 		]
-	}
+	},
+	"Uninstall": [
+		"plugins/test.smx"
+	]
 }
