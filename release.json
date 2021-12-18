@@ -1,7 +1,7 @@
 {
   "package_name": "testplugin",
 	"title": "这是一个插件标题",
-	"note": "这是一个插件说明 支持简单的换行符 字体颜色标签 ",
+	"note": ["第一行插件说明","第二行插件说明","第三行插件说明"],
 	"version": 2,
 	"Request_data": {
 		"Request_Extsions": [
